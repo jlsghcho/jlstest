@@ -1,0 +1,6 @@
+--- css파일 경로
+/hms/css/event/
+
+--- 이미지파일 경로
+/hms/img/event/20200825_event/
+/hms/img/event/20200825_event/
