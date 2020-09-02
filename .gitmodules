@@ -1,3 +1,7 @@
 [submodule "brch"]
 	path = brch
 	url = https://github.com/jlsghcho/brch.git
+[submodule "sub2"]
+	path = sub2
+	url = https://github.com/jlsghcho/sub2.git
+	branch = master
